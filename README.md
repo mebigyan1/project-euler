@@ -1,7 +1,7 @@
 # project-euler
 
 ## Why this repository?
-You may wonder why would I want to spoil for them who want to solve problems. This is actually not for spoiling but for helping them. For someone with no background or knowledge to start out it gets very hard to solve problems. Unfortunately this too is also not a total guide but it can help you to some extent to solve problems so feel free to watch problems if you get totally stucked and can't move forward.
+You may wonder why would I want to spoil for them who want to solve problems. This is actually not for spoiling but for helping them. For someone with no background or knowledge to start out it gets very hard to solve problems. Unfortunately this too is also not a total guide for all of the problems (I will keep adding till Problem 100) but it can help you to some extent to solve problems so feel free to watch my solution to the problems if you get totally stucked and can't move forward.
 
 [ProjectEuler](http://projecteuler.net/) has stated Problems till 100 can be used for helping materials so use it that way. If you have completed the challenges feel free to compare with mine.
 
